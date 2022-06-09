@@ -1,6 +1,6 @@
 
 def say_hello ():
     print('Hello World!')
-    return 'f'
+    return 'other value'
 
 print(say_hello())
